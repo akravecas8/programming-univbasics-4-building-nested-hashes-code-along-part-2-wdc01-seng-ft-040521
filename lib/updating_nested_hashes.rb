@@ -61,7 +61,7 @@ def add_characters
    apothecary = {name: "Apothecary"}
    
    epic_tragedy[:additional_characters] << prince
-   epic_tragedy{:additional_characters] << apothecary
+   epic_tragedy[:additional_characters] << apothecary
    
    #   - The first hash should have the :name key set to "Prince Escalus" 
    #   - The second hash should have the :name key set to "Apothecary" 
